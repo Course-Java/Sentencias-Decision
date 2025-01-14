@@ -6,5 +6,8 @@ public class SentenciaIf {
         if (edad >= 18) {
             System.out.println("Eres mayor de edad");
         }
+        else {
+            System.out.println("Eres menor de edad");
+        }
     }
 }
